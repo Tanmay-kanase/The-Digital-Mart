@@ -1,0 +1,9 @@
+.btn-wrap:hover span:first-child {
+  width: 10px;
+  margin-right: -10px;
+}
+
+.btn-wrap:hover span:last-child {
+  width: 20px;
+  margin-right: 0;
+}
